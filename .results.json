@@ -5,43 +5,43 @@
     "passes": 6,
     "pending": 0,
     "failures": 0,
-    "start": "2020-12-21T22:15:15.003Z",
-    "end": "2020-12-21T22:15:17.099Z",
-    "duration": 2096
+    "start": "2020-12-21T22:15:32.525Z",
+    "end": "2020-12-21T22:15:34.619Z",
+    "duration": 2094
   },
   "tests": [
     {
       "title": "should use the componentDidMount lifecycle method to fetchCats",
       "fullTitle": "<App/> should use the componentDidMount lifecycle method to fetchCats",
-      "duration": 32,
+      "duration": 33,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "uses redux and thunk to create an action object with type of \"ADD_CATS\" and a payload of cat images",
       "fullTitle": "async actions uses redux and thunk to create an action object with type of \"ADD_CATS\" and a payload of cat images",
-      "duration": 2011,
+      "duration": 2013,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should display the cat pics wrapped in <img> tags",
       "fullTitle": "<CatList/> should display the cat pics wrapped in <img> tags",
-      "duration": 5,
+      "duration": 4,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should have props catPics",
       "fullTitle": "<CatList/> should have props catPics",
-      "duration": 6,
+      "duration": 5,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should return the initial state",
       "fullTitle": "cats reducer should return the initial state",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -59,35 +59,35 @@
     {
       "title": "should use the componentDidMount lifecycle method to fetchCats",
       "fullTitle": "<App/> should use the componentDidMount lifecycle method to fetchCats",
-      "duration": 32,
+      "duration": 33,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "uses redux and thunk to create an action object with type of \"ADD_CATS\" and a payload of cat images",
       "fullTitle": "async actions uses redux and thunk to create an action object with type of \"ADD_CATS\" and a payload of cat images",
-      "duration": 2011,
+      "duration": 2013,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should display the cat pics wrapped in <img> tags",
       "fullTitle": "<CatList/> should display the cat pics wrapped in <img> tags",
-      "duration": 5,
+      "duration": 4,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should have props catPics",
       "fullTitle": "<CatList/> should have props catPics",
-      "duration": 6,
+      "duration": 5,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should return the initial state",
       "fullTitle": "cats reducer should return the initial state",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
